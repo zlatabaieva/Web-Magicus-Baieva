@@ -1,0 +1,6 @@
+@import 'reset.css';
+@import 'content6.css';
+@font-face {
+    font-family: "Anticva-Regular";
+    src: url(../fonts/Anticva-Regular.otf);
+  }

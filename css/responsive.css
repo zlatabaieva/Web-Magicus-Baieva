@@ -1,0 +1,4982 @@
+@media only screen and (min-width: 1441px) and (max-width: 1920px){
+  body{
+    width: 1920px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 1482px;
+    width: 1920px;
+  }
+  .screen2{
+    height: 1380px;
+    width: 1920px;
+  }
+  .screen3{
+    height: 1222px;
+    width: 1920px;
+  }
+  .screen4{
+    height: 1560px;
+    width: 1920px;
+  }
+  .screen5{
+    height: 422px;
+    width: 1920px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 97px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 39px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 52px;
+  margin-left: 605px;
+  width: 613px;
+  height: 114px;
+  }
+   .container1 {
+   margin-top: 65px;
+   margin-left: 60px;
+   width: 573px;
+   height:997px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:26px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 5px;
+     left: -2px;
+     width: 573px;
+     height: 997px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 1410px;
+     height: 539px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:559px;
+     width: 1410px;
+     height: 539px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -812px;}
+    100% {right: calc(100% - 573px);}
+  }
+  @keyframes roow {
+    0% {left:  -812px;}
+   100% {left:calc(100% - 573px);}
+  }
+  .container3 {
+   margin-top: 65px;
+   margin-left:85px;
+  width: 573px;
+  height:997px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:26px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 5px;
+  left: -2px;
+   width: 573px;
+   height: 997px;
+   display: block;
+   position: absolute;
+
+  }
+  .row1{
+   width: 1410px;
+   height: 539px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:559px;
+   width: 1410px;
+   height: 539px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -812px;}
+  100% {right: calc(100% - 573px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -812px;}
+  100% {left:calc(100% - 573px);}
+  }
+  .container2 {
+  margin-top: 221px;
+  margin-left:85px;
+  width: 464px;
+  height:652px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 59px;
+  padding-top:117px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 3265px;
+  height: 405px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -1410px;}
+  100% {right: 520px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 1124px;
+  height: 529px;
+  left: -89px;
+  top: 663px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -1274px;}
+  100% {left: -26px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 800px;
+  height: 1116px;
+  left: 1036px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:1414px;
+  z-index: 0;
+  width: 56px;
+  height: 920px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 1482px;}
+  100% {top: 1677px;}
+  }
+  .c1 {
+  top: 65px;
+  width: 1044px;
+  height:119px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -6.5px;
+  }
+  .c1:hover {
+  top: 65px;
+  width: 1044px;
+  height:119px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -6.5px;
+  }
+  .r1{
+  margin-top: 17px;
+  width: 2862px;
+  height:75px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -2020px;}
+  100% {left: calc(100% - 1040px);}]
+  }
+  .c2 {
+  width: 1044px;
+  height:119px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 218px
+  }
+  .c2:hover {
+  width: 1044px;
+  height:119px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 218px;
+  }
+  .r2{
+  margin-top: 17px;
+  width: 2901px;
+  height:84px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -2020px;}
+  100% {right: calc(100% - 1040px);}]
+  }
+  .c3 {
+  top: 70px;
+  width: 1044px;
+  height:128px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  margin-top: 98px;
+  }
+  .c3:hover {
+  top: 70px;
+  width: 1044px;
+  height:128px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -5px;
+  margin-top: 98px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 17px;
+  width: 3224px;
+  height:109px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -2020px;}
+  100% {left: calc(100% - 1040px);}]
+  }
+  .c4 {
+  width: 1040px;
+  height: 128px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 221px;
+  }
+  .c4:hover {
+  width: 1040px;
+  height:128px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 221px;
+  }
+  .r4{
+  margin-top: 17px;
+  width: 3060px;
+  height:101px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -2020px;}
+  100% {right: calc(100% - 1040px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 91px;
+  top:1683px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 1023px;
+  top:2704px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 422px;
+  top:2239px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  left: 494px;
+  top:1683px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  left: 113px;
+  top:2260px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 1653px;
+  top:2698px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 119px;
+  height: 104px;
+  left: 323px;
+  top:1963px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 119px;
+  height: 104px;
+  left: 726px;
+  top:2600px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 618px;
+  top:1976px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 455px;
+  top:2683px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  left: 858px;
+  top:1937px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  left: 120px;
+  top:2641px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  left: 1355px;
+  top:2665px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 136px;
+  top: 3892px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 119px;
+  height: 104px;
+  left: 495px;
+  top: 3853px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  left: 885px;
+  top: 3892px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 1235px;
+  top: 3822px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 1592px;
+  top: 3874px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 83px;
+  width: 1748px;
+  height:916px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:3603px;
+  margin-left: 83px;
+  width: 1748px;
+  height:9px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 2901px;
+  left: 932px;
+  width: 915px;
+  height: 290px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 3343px;
+  left: 1495px;
+  width: 188px;
+  height: 260px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+    top: 3343px;
+    left: 1495px;
+    width: 188px;
+    height: 260px;
+    position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 3343px;
+  left: 1232px;
+  width: 162px;
+  height: 260px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+    top: 3343px;
+    left: 1232px;
+    width: 162px;
+    height: 260px;
+    position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 3343px;
+  left: 917px;
+  width: 231px;
+  height: 260px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+    top: 3343px;
+    left: 917px;
+    width: 231px;
+    height: 260px;
+    position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 3343px;
+  left: 676px;
+  width: 143px;
+  height: 260px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 3484px;
+  left: 676px;
+  width: 141px;
+  height: 122px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-455px) translateX(13px);;}
+  90% {transform: rotate(-77deg)translateY(-95px)translateX(416px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-481px) translateX(6px);
+  }
+  90% {transform: rotate(-76deg)translateY(-385px)translateX(418px);
+  }
+  }
+  .botle5 {
+  top: 3053px;
+  left: 175px;
+  width: 420px;
+  height: 554px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+    top: 3053px;
+    left: 175px;
+    width: 420px;
+    height: 554px;
+    position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1920px;
+  height:1820px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 733px;
+  height: 231px;
+  left: 45px;
+  top: 4075px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 733px;
+  height: 231px;
+  left: 45px;
+  top: 4075px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 5372px;
+  height: 661px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 520px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:5258px;
+  width: 1920px;
+  height:9px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -4940px;}
+  100% {right: calc(100% - 1430px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 293px;
+  height: 219px;
+  left: 758px;
+  top: 4830px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 446px;
+  height: 333px;
+  left: 1326px;
+  top: 4160px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 446px;
+  height: 333px;
+  left: 1306px;
+  top: 5396px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 446px;
+  height: 333px;
+  left: 104px;
+  top: 5396px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 446px;
+  height: 161px;
+  left: 60px;
+  top: 5972px;
+  }
+  .name{
+  position: absolute;
+  width: 442px;
+  height: 299px;
+  left: 1379px;
+  top: 5938px;
+  }
+}
+@media only screen and (min-width: 1281px) and (max-width: 1440px){
+  body{
+    width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 1140px;
+    width: 1440px;
+  }
+  .screen2{
+    height: 1062px;
+    width: 1440px;
+  }
+  .screen3{
+    height: 940px;
+    width: 1440px;
+  }
+  .screen4{
+    height: 1200px;
+    width: 1440px;
+  }
+  .screen5{
+    height: 325px;
+    width: 1440px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 75px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 40px;
+  margin-left: 466px;
+  width: 472px;
+  height: 88px;
+  }
+   .container1 {
+   margin-top: 50px;
+   margin-left: 46px;
+   width: 441px;
+   height:767px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:20px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 4px;
+     left: -1.5px;
+     width: 441px;
+     height: 767px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:430px;
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -625px;}
+    100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow {
+    0% {left:  -625px;}
+   100% {left:calc(100% - 441px);}
+  }
+  .container3 {
+   margin-top: 50px;
+   margin-left:50px;
+  width: 441px;
+  height:767px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:20px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 4px;
+  left: -1.5px;
+   width: 441px;
+   height: 767px;
+   display: block;
+   position: absolute;
+
+  }
+  .row1{
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:430px;
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -625px;}
+  100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -625px;}
+  100% {left:calc(100% - 441px);}
+  }
+  .container2 {
+  margin-top: 170px;
+  margin-left:50px;
+  width: 357px;
+  height:502px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 46px;
+  padding-top:90px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 2512px;
+  height: 312px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -1085px;}
+  100% {right: 400px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 865.11px;
+  height: 407.3px;
+  left: -69.06px;
+  top: 510px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -980px;}
+  100% {left: -20px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 616px;
+  height: 859px;
+  left: 788px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:1080px;
+  z-index: 0;
+  width: 40px;
+  height: 708px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 1140px;}
+  100% {top: 1290px;}
+  }
+  .c1 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .c1:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .r1{
+  margin-top: 13px;
+  width: 2202px;
+  height:63px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c2 {
+  width: 800px;
+  height:92px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 168px
+  }
+  .c2:hover {
+  width: 800px;
+  height:92px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 168px;
+  }
+  .r2{
+  margin-top: 13px;
+  width: 2232px;
+  height:65px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}]
+  }
+  .c3 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  margin-top: 70px;
+  }
+  .c3:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -5px;
+  margin-top: 70px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 13px;
+  width: 2480px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c4 {
+  width: 800px;
+  height: 92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .c4:hover {
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .r4{
+  margin-top: 13px;
+  width: 2354px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 70px;
+  top:1295px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 787px;
+  top:2080px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 325px;
+  top:1723px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 380px;
+  top:1295px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 87px;
+  top:1700px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1272px;
+  top:2076px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 249px;
+  top:1510px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 559px;
+  top:2000px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 476px;
+  top:1520px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 350px;
+  top:2064px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 660px;
+  top:1490px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 93px;
+  top:2032px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 1043px;
+  top:2050px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 105px;
+  top: 2994px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 381px;
+  top: 2964px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 681px;
+  top: 2994px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 950px;
+  top: 2940px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1225px;
+  top: 2980px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 41px;
+  width: 1345px;
+  height:705px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:2772px;
+  margin-left: 41px;
+  width: 1345px;
+  height:7px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 2270px;
+  left: 717px;
+  width: 704px;
+  height: 223px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 2572px;
+  left: 520px;
+  width: 110px;
+  height: 200px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 2680px;
+  left: 520px;
+  width: 109px;
+  height: 94px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-350px) translateX(10px);;}
+  90% {transform: rotate(-59deg)translateY(-150px)translateX(320px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-370px) translateX(5px);
+  }
+  90% {transform: rotate(-59deg)translateY(-450px)translateX(260px);
+  }
+  }
+  .botle5 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1440px;
+  height:1300px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 4133px;
+  height: 509px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 400px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:4045px;
+  width: 1440px;
+  height:7px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -3800px;}
+  100% {right: calc(100% - 1100px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 226px;
+  height: 169px;
+  left: 583px;
+  top: 3700px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1020px;
+  top: 3200px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1005px;
+  top: 4120px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 80px;
+  top: 4120px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 343px;
+  height: 124px;
+  left: 46px;
+  top: 4548px;
+  }
+  .name{
+  position: absolute;
+  width: 340px;
+  height: 230px;
+  left: 1061px;
+  top: 4522px;
+  }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1280px){
+  body{
+    width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 1013px;
+    width: 1280px;
+  }
+  .screen2{
+    height: 944px;
+    width: 1280px;
+  }
+  .screen3{
+    height: 835px;
+    width: 1280px;
+  }
+  .screen4{
+    height: 1066px;
+    width: 1280px;
+  }
+  .screen5{
+    height: 288px;
+    width: 1280px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 66px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 26px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 35px;
+  margin-left: 414px;
+  width: 419px;
+  height: 78px;
+  }
+   .container1 {
+   margin-top: 44px;
+   margin-left: 40px;
+   width: 392px;
+   height:681px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:18px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 3.5px;
+     left: -1.3px;
+     width: 392px;
+     height: 681px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 964px;
+     height: 368px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:382px;
+     width: 1085px;
+     height: 964px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -555px;}
+    100% {right: calc(100% - 392px);}
+  }
+  @keyframes roow {
+    0% {left:  -555px;}
+   100% {left:calc(100% - 392px);}
+  }
+  .container3 {
+   margin-top: 44px;
+   margin-left:44px;
+  width: 392px;
+  height:681px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:17px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 3px;
+  left: -1.3px;
+   width: 392px;
+   height: 681px;
+   display: block;
+   position: absolute;
+
+  }
+  .row1{
+   width: 964px;
+   height: 368px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:382px;
+   width: 964px;
+   height: 368px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -555px;}
+  100% {right: calc(100% - 392px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -555px;}
+  100% {left:calc(100% - 392px);}
+  }
+  .container2 {
+  margin-top: 151px;
+  margin-left:44px;
+  width: 317px;
+  height:446px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 40px;
+  padding-top:80px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 2232px;
+  height: 277px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -964px;}
+  100% {right: 355px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 769px;
+  height: 362px;
+  left: -61px;
+  top: 453px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -871px;}
+  100% {left: -17px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 547px;
+  height: 763px;
+  left: 700px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:960px;
+  z-index: 0;
+  width: 35px;
+  height: 629px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 1013px;}
+  100% {top: 1146px;}
+  }
+  .c1 {
+  top: 44px;
+  width: 711px;
+  height:81px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -4px;
+  }
+  .c1:hover {
+  top: 44px;
+  width: 711px;
+  height:81px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -4px;
+  }
+  .r1{
+  margin-top: 11.5px;
+  width: 1957px;
+  height:56px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -1381px;}
+  100% {left: calc(100% - 711px);}]
+  }
+  .c2 {
+  width: 711px;
+  height:82px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 149px
+  }
+  .c2:hover {
+  width: 711px;
+  height:82px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 149px;
+  }
+  .r2{
+  margin-top: 11.5px;
+  width: 1984px;
+  height:58px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -1381px;}
+  100% {right: calc(100% - 711px);}]
+  }
+  .c3 {
+  top: 44px;
+  width: 711px;
+  height:82px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  margin-top: 62px;
+  }
+  .c3:hover {
+  top: 44px;
+  width: 711px;
+  height:82px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -5px;
+  margin-top: 62px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 11px;
+  width: 2204px;
+  height:69px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -1381px;}
+  100% {left: calc(100% - 711px);}]
+  }
+  .c4 {
+  width: 711px;
+  height: 82px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 151px;
+  }
+  .c4:hover {
+  width: 711px;
+  height:82px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 151px;
+  }
+  .r4{
+  margin-top: 11px;
+  width: 2092px;
+  height:69px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -1381px;}
+  100% {right: calc(100% - 711px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 62px;
+  top:1151px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 699px;
+  top:1848px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 98px;
+  height: 88px;
+  left: 288px;
+  top:1531px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 337px;
+  top:1151px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 77px;
+  top:1511px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 1130px;
+  top:1845px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 82px;
+  height: 71px;
+  left: 221px;
+  top:1342px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 82px;
+  height: 71px;
+  left: 496px;
+  top:1777px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 423px;
+  top:1351px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 311px;
+  top:1834px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  left: 586px;
+  top:1324px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  left: 82px;
+  top:1806px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  left: 927px;
+  top:1822px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  left: 93px;
+  top: 2661px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 82px;
+  height: 71px;
+  left: 338px;
+  top: 2634px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  left: 605px;
+  top: 2661px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 96px;
+  height: 89px;
+  left: 844px;
+  top: 2613px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 96px;
+  height: 89px;
+  left: 1088px;
+  top: 2648px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 36px;
+  width: 1195px;
+  height:626px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:2464px;
+  margin-left: 36px;
+  width: 1195px;
+  height:6px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 2017px;
+  left: 637px;
+  width: 625px;
+  height: 198px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 2286px;
+  left: 1022px;
+  width: 129px;
+  height: 178px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+  top: 2286px;
+  left: 1022px;
+  width: 129px;
+  height: 178px;
+  position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 2286px;
+  left: 842px;
+  width: 111px;
+  height: 178px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+  top: 2286px;
+  left: 842px;
+  width: 111px;
+  height: 178px;
+  position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 2286px;
+  left: 627px;
+  width: 158px;
+  height: 178px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+  top: 2286px;
+  left: 627px;
+  width: 158px;
+  height: 178px;
+  position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 2286px;
+  left: 462px;
+  width: 98px;
+  height: 178px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 2382px;
+  left: 462px;
+  width: 97px;
+  height: 83px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-311px) translateX(9px);;}
+  90% {transform: rotate(-52deg)translateY(-113px)translateX(224px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-329px) translateX(4px);
+  }
+  90% {transform: rotate(-52deg)translateY(-370px)translateX(201px);
+  }
+  }
+  .botle5 {
+  top: 2088px;
+  left: 120px;
+  width: 287px;
+  height: 378px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+  top: 2088px;
+  left: 120px;
+  width: 287px;
+  height: 378px;
+  position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1280px;
+  height:1155px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 501px;
+  height: 158px;
+  left: 31px;
+  top: 2786px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 501px;
+  height: 158px;
+  left: 31px;
+  top: 2786px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 3674px;
+  height: 452px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 355px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:3595px;
+  width: 1280px;
+  height:6px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -3378px;}
+  100% {right: calc(100% - 978px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 201px;
+  height: 150px;
+  left: 518px;
+  top: 3288px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 305px;
+  height: 227px;
+  left: 906px;
+  top: 2844px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 305px;
+  height: 228px;
+  left: 893px;
+  top: 3662px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 305px;
+  height: 228px;
+  left: 71px;
+  top: 3662px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 305px;
+  height: 110px;
+  left: 41px;
+  top: 4042px;
+  }
+  .name{
+  position: absolute;
+  width: 302px;
+  height: 204px;
+  left: 943px;
+  top: 4019px;
+  }
+}
+@media only screen and (min-width:769px) and (max-width:1024px)
+{
+  body{
+    width: 1024px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 814px;
+    width: 1024px;
+  }
+  .screen2{
+    height: 758px;
+    width: 1024px;
+  }
+  .screen3{
+    height: 671px;
+    width: 1024px;
+  }
+  .screen4{
+    height: 857px;
+    width: 1024px;
+  }
+  .screen5{
+    height: 232px;
+    width: 1024px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 53px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 21px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 28px;
+  margin-left: 332px;
+  width: 337px;
+  height: 63px;
+  }
+   .container1 {
+   margin-top: 34px;
+   margin-left: 32px;
+   width: 315px;
+   height:547px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:14px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 3px;
+     left: -1px;
+     width: 315px;
+     height: 547px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 775px;
+     height: 296px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:307px;
+     width: 775px;
+     height: 296px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -446px;}
+    100% {right: calc(100% - 315px);}
+  }
+  @keyframes roow {
+    0% {left:  -446px;}
+   100% {left:calc(100% - 315px);}
+  }
+  .container3 {
+   margin-top: 35px;
+   margin-left:35px;
+  width: 315px;
+  height:547px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:14px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 3px;
+  left: -1px;
+   width: 315px;
+   height: 547px;
+   display: block;
+   position: absolute;
+  }
+  .row1{
+   width: 775px;
+   height: 296px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:307px;
+   width: 775px;
+   height: 296px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -446px;}
+  100% {right: calc(100% - 315px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -446px;}
+  100% {left:calc(100% - 315px);}
+  }
+  .container2 {
+  margin-top: 121px;
+  margin-left:35px;
+  width: 255px;
+  height:358px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 32px;
+  padding-top:64px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 1794px;
+  height: 222px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -775px;}
+  100% {right: 285px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 617px;
+  height: 290px;
+  left: -49px;
+  top: 364px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -700px;}
+  100% {left: -14px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 440px;
+  height: 613px;
+  left: 562px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:771px;
+  z-index: 0;
+  width: 28px;
+  height: 505px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 814px;}
+  100% {top: 921px;}
+  }
+  .c1 {
+  top: 35px;
+  width: 571px;
+  height:65px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -3.5px;
+  }
+  .c1:hover {
+  top: 35px;
+  width: 571px;
+  height:65px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -3.5px;
+  }
+  .r1{
+  margin-top: 9px;
+  width: 1572px;
+  height:45px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -1110px;}
+  100% {left: calc(100% - 571px);}]
+  }
+  .c2 {
+  width: 571px;
+  height:65px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 120px
+  }
+  .c2:hover {
+  width: 571px;
+  height:65px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 120px;
+  }
+  .r2{
+  margin-top: 9px;
+  width: 1594px;
+  height:46px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -1110px;}
+  100% {right: calc(100% - 571px);}]
+  }
+  .c3 {
+  top: 35px;
+  width: 571px;
+  height:65px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -3.5px;
+  margin-top: 50px;
+  }
+  .c3:hover {
+  top: 35px;
+  width: 571px;
+  height:65px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -3.5px;
+  margin-top: 50px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 9px;
+  width: 1771px;
+  height:55px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -1110px;}
+  100% {left: calc(100% - 571px);}]
+  }
+  .c4 {
+  width: 571px;
+  height: 65px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 121px;
+  }
+  .c4:hover {
+  width: 571px;
+  height:65px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 121px;
+  }
+  .r4{
+  margin-top: 9px;
+  width: 1681px;
+  height:55px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -1110px;}
+  100% {right: calc(100% - 571px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 50px;
+  top:925px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 562px;
+  top:1485px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 232px;
+  top:1230px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 271px;
+  top:925px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 62px;
+  top:1214px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 908px;
+  top:1482px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 67px;
+  height: 57px;
+  left: 177px;
+  top:1078px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 65px;
+  height: 57px;
+  left: 399px;
+  top:1428px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 340px;
+  top:1085px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 250px;
+  top:1474px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  left: 471px;
+  top:1064px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  left: 66px;
+  top:1451px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  left: 745px;
+  top:1464px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 75px;
+  top: 2138px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 65px;
+  height: 57px;
+  left: 272px;
+  top: 2117px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  left: 486px;
+  top: 2138px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 678px;
+  top: 2100px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  left: 875px;
+  top: 2128px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 29px;
+  width: 960px;
+  height:503px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:1980px;
+  margin-left: 29px;
+  width: 960px;
+  height:5px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 1621px;
+  left: 512px;
+  width: 502px;
+  height: 159px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 1837px;
+  left: 821px;
+  width: 103px;
+  height: 142px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+  top: 1837px;
+  left: 821px;
+  width: 103px;
+  height: 142px;
+  position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 1837px;
+  left: 677px;
+  width: 89px;
+  height: 142px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+  top: 1837px;
+  left: 677px;
+  width: 89px;
+  height: 142px;
+  position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 1837px;
+  left: 504px;
+  width: 127px;
+  height: 142px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+  top: 1837px;
+  left: 504px;
+  width: 127px;
+  height: 142px;
+  position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 1837px;
+  left: 371px;
+  width: 78px;
+  height: 142px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 1914px;
+  left: 371px;
+  width: 77px;
+  height: 67px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-250px) translateX(7px);;}
+  90% {transform: rotate(-42deg)translateY(-120px)translateX(148px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-264px) translateX(3.5px);
+  }
+  90% {transform: rotate(-42deg)translateY(-301px)translateX(105px);
+  }
+  }
+  .botle5 {
+  top: 1677px;
+  left: 96px;
+  width: 230px;
+  height: 304px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+  top: 1677px;
+  left: 96px;
+  width: 230px;
+  height: 304px;
+  position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1024px;
+  height:928px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 403px;
+  height: 127px;
+  left: 25px;
+  top: 2239px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 403px;
+  height: 127px;
+  left: 25px;
+  top: 2239px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 2952px;
+  height: 363px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 285px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:2889px;
+  width: 1024px;
+  height:5px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -2714px;}
+  100% {right: calc(100% - 785px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 161px;
+  height: 120px;
+  left: 416px;
+  top: 2642px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 245px;
+  height: 182px;
+  left: 728px;
+  top: 2285px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 245px;
+  height: 182px;
+  left: 717px;
+  top: 2942px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 245px;
+  height: 182px;
+  left: 57px;
+  top: 2942px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 245px;
+  height: 88px;
+  left: 32px;
+  top: 3248px;
+  }
+  .name{
+  position: absolute;
+  width: 242px;
+  height: 164px;
+  left: 757px;
+  top: 3230px;
+  }
+}
+
+@media only screen and (min-device-width:415px) and (max-device-width:768px){
+  body{
+    width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 1140px;
+    width: 1440px;
+  }
+  .screen2{
+    height: 1062px;
+    width: 1440px;
+  }
+  .screen3{
+    height: 940px;
+    width: 1440px;
+  }
+  .screen4{
+    height: 1200px;
+    width: 1440px;
+  }
+  .screen5{
+    height: 325px;
+    width: 1440px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 75px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 40px;
+  margin-left: 466px;
+  width: 472px;
+  height: 88px;
+  }
+   .container1 {
+   margin-top: 50px;
+   margin-left: 46px;
+   width: 441px;
+   height:767px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:20px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 4px;
+     left: -1.5px;
+     width: 441px;
+     height: 767px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:430px;
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -625px;}
+    100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow {
+    0% {left:  -625px;}
+   100% {left:calc(100% - 441px);}
+  }
+  .container3 {
+   margin-top: 50px;
+   margin-left:50px;
+  width: 441px;
+  height:767px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:20px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 4px;
+  left: -1.5px;
+   width: 441px;
+   height: 767px;
+   display: block;
+   position: absolute;
+
+  }
+  .row1{
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:430px;
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -625px;}
+  100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -625px;}
+  100% {left:calc(100% - 441px);}
+  }
+  .container2 {
+  margin-top: 170px;
+  margin-left:50px;
+  width: 357px;
+  height:502px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 46px;
+  padding-top:90px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 2512px;
+  height: 312px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -1085px;}
+  100% {right: 400px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 865.11px;
+  height: 407.3px;
+  left: -69.06px;
+  top: 510px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -980px;}
+  100% {left: -20px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 616px;
+  height: 859px;
+  left: 788px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:1080px;
+  z-index: 0;
+  width: 40px;
+  height: 708px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 1140px;}
+  100% {top: 1290px;}
+  }
+  .c1 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .c1:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .r1{
+  margin-top: 13px;
+  width: 2202px;
+  height:63px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c2 {
+  width: 800px;
+  height:92px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 168px
+  }
+  .c2:hover {
+  width: 800px;
+  height:92px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 168px;
+  }
+  .r2{
+  margin-top: 13px;
+  width: 2232px;
+  height:65px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}]
+  }
+  .c3 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  margin-top: 70px;
+  }
+  .c3:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -5px;
+  margin-top: 70px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 13px;
+  width: 2480px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c4 {
+  width: 800px;
+  height: 92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .c4:hover {
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .r4{
+  margin-top: 13px;
+  width: 2354px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 70px;
+  top:1295px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 787px;
+  top:2080px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 325px;
+  top:1723px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 380px;
+  top:1295px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 87px;
+  top:1700px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1272px;
+  top:2076px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 249px;
+  top:1510px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 559px;
+  top:2000px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 476px;
+  top:1520px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 350px;
+  top:2064px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 660px;
+  top:1490px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 93px;
+  top:2032px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 1043px;
+  top:2050px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 105px;
+  top: 2994px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 381px;
+  top: 2964px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 681px;
+  top: 2994px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 950px;
+  top: 2940px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1225px;
+  top: 2980px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 41px;
+  width: 1345px;
+  height:705px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:2772px;
+  margin-left: 41px;
+  width: 1345px;
+  height:7px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 2270px;
+  left: 717px;
+  width: 704px;
+  height: 223px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 2572px;
+  left: 520px;
+  width: 110px;
+  height: 200px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 2680px;
+  left: 520px;
+  width: 109px;
+  height: 94px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-350px) translateX(10px);;}
+  90% {transform: rotate(-59deg)translateY(-150px)translateX(320px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-370px) translateX(5px);
+  }
+  90% {transform: rotate(-59deg)translateY(-450px)translateX(260px);
+  }
+  }
+  .botle5 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1440px;
+  height:1300px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 4133px;
+  height: 509px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 400px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:4045px;
+  width: 1440px;
+  height:7px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -3800px;}
+  100% {right: calc(100% - 1100px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 226px;
+  height: 169px;
+  left: 583px;
+  top: 3700px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1020px;
+  top: 3200px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1005px;
+  top: 4120px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 80px;
+  top: 4120px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 343px;
+  height: 124px;
+  left: 46px;
+  top: 4548px;
+  }
+  .name{
+  position: absolute;
+  width: 340px;
+  height: 230px;
+  left: 1061px;
+  top: 4522px;
+  }
+}
+@media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
+  body{
+    width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #18363E;
+  }
+  .screen1{
+    height: 1140px;
+    width: 1440px;
+  }
+  .screen2{
+    height: 1062px;
+    width: 1440px;
+  }
+  .screen3{
+    height: 940px;
+    width: 1440px;
+  }
+  .screen4{
+    height: 1200px;
+    width: 1440px;
+  }
+  .screen5{
+    height: 325px;
+    width: 1440px;
+  }
+  h1{
+    font-family: "Anticva-Regular";
+    font-size: 75px;
+    color: #F5F0EA;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+  }
+  .mainlogo{
+    position: relative;
+  margin-top: 40px;
+  margin-left: 466px;
+  width: 472px;
+  height: 88px;
+  }
+   .container1 {
+   margin-top: 50px;
+   margin-left: 46px;
+   width: 441px;
+   height:767px;
+   position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+   padding-top:20px;
+   overflow: hidden;
+   border-radius: 8%;
+   }
+   .cont{
+     top: 4px;
+     left: -1.5px;
+     width: 441px;
+     height: 767px;
+     display: block;
+     position: absolute;
+
+   }
+   .row{
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: row 6s linear infinite;
+     animation-direction: alternate;
+   }
+   .roow{
+  margin-top:430px;
+     width: 1085px;
+     height: 415px;
+     display: block;
+     position: absolute;
+     animation: roow 6s linear infinite;
+     animation-direction: alternate;
+   }
+   *{
+     box-sizing: border-box;
+   }
+   @keyframes row {
+     0% {right: -625px;}
+    100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow {
+    0% {left:  -625px;}
+   100% {left:calc(100% - 441px);}
+  }
+  .container3 {
+   margin-top: 50px;
+   margin-left:50px;
+  width: 441px;
+  height:767px;
+  position: relative;
+   background:#FFFFFF;
+   object-fit: contain;
+  padding-top:20px;
+  overflow: hidden;
+  border-radius: 8%;
+  }
+  .cont1{
+   top: 4px;
+  left: -1.5px;
+   width: 441px;
+   height: 767px;
+   display: block;
+   position: absolute;
+
+  }
+  .row1{
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: row1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  .roow1{
+  margin-top:430px;
+   width: 1085px;
+   height: 415px;
+   display: block;
+   position: absolute;
+   animation: roow1 6s linear infinite;
+    animation-direction: alternate;
+  }
+  *{
+   box-sizing: border-box;
+  }
+  @keyframes row1 {
+   0% {right: -625px;}
+  100% {right: calc(100% - 441px);}
+  }
+  @keyframes roow1 {
+  0% {left:  -625px;}
+  100% {left:calc(100% - 441px);}
+  }
+  .container2 {
+  margin-top: 170px;
+  margin-left:50px;
+  width: 357px;
+  height:502px;
+  position: relative;
+  background:#FFFFFF;
+  object-fit: contain;
+  padding-left: 46px;
+  padding-top:90px;
+  overflow: hidden;
+  border-radius: 10%;
+  }
+  .row2{
+  width: 2512px;
+  height: 312px;
+  display: block;
+  position: absolute;
+  animation: row2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  *{
+  box-sizing: border-box;
+  }
+  @keyframes row2 {
+  0% {right: -1085px;}
+  100% {right: 400px;}
+  }
+  .stick1{
+  position: absolute;
+  width: 865.11px;
+  height: 407.3px;
+  left: -69.06px;
+  top: 510px;
+  animation: stick1 3s linear  infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick1 {
+  0% {left: -980px;}
+  100% {left: -20px;}
+  }
+  .stick2{
+  position: absolute;
+  width: 616px;
+  height: 859px;
+  left: 788px;
+  z-index: 3;
+  }
+  .text{
+  position: absolute;
+  left:1080px;
+  z-index: 0;
+  width: 40px;
+  height: 708px;
+  animation: text 2s linear infinite;
+  }
+  @keyframes text{
+  0% {top: 1140px;}
+  100% {top: 1290px;}
+  }
+  .c1 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .c1:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:pink;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  }
+  .r1{
+  margin-top: 13px;
+  width: 2202px;
+  height:63px;
+  display: block;
+  position: absolute;
+  animation: r1 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r1 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c2 {
+  width: 800px;
+  height:92px;
+  position: relative;
+  overflow: hidden;
+  background:#FFFFFF;
+  transform: rotate(-5deg);
+  margin-top: 168px
+  }
+  .c2:hover {
+  width: 800px;
+  height:92px;
+  overflow: hidden;
+  position: relative;
+  background:green;
+  transform: rotate(-5deg);
+  margin-top: 168px;
+  }
+  .r2{
+  margin-top: 13px;
+  width: 2232px;
+  height:65px;
+  display: block;
+  position: absolute;
+  animation: r2 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r2 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}]
+  }
+  .c3 {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(5deg);
+  padding-top: -5px;
+  margin-top: 70px;
+  }
+  .c3:hover {
+  top: 50px;
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:orange;
+  overflow: hidden;
+  padding-top: -5px;
+  margin-top: 70px;
+  transform: rotate(5deg);
+  }
+  .r3{
+  margin-top: 13px;
+  width: 2480px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r3 {
+  0% {left: -1554px;}
+  100% {left: calc(100% - 800px);}]
+  }
+  .c4 {
+  width: 800px;
+  height: 92px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .c4:hover {
+  width: 800px;
+  height:92px;
+  position: relative;
+  background:blue;
+  overflow: hidden;
+  transform: rotate(-5deg);
+  margin-top: 170px;
+  }
+  .r4{
+  margin-top: 13px;
+  width: 2354px;
+  height:78px;
+  display: block;
+  position: absolute;
+  animation: r4 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes r4 {
+  0% {right: -1554px;}
+  100% {right: calc(100% - 800px);}
+  }
+  .heart1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 70px;
+  top:1295px;
+  animation: heart1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 787px;
+  top:2080px;
+  animation: heart3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart3 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .heart2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 325px;
+  top:1723px;
+  transform: rotate(65deg);
+  animation: heart2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .star1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 380px;
+  top:1295px;
+  animation: star1 6s linear infinite;
+  }
+  @keyframes star1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 87px;
+  top:1700px;
+  animation: star2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star2 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .star3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1272px;
+  top:2076px;
+  animation: star3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes star3 {
+  0% {transform: rotate(15deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon1{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 249px;
+  top:1510px;
+  animation: moon1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon1 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .moon2{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 559px;
+  top:2000px;
+  animation: moon2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon2 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .daisy1{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 476px;
+  top:1520px;
+  animation: daisy1 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy1 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy2{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 350px;
+  top:2064px;
+  animation: daisy2 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy2 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .sstar1{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 660px;
+  top:1490px;
+  animation: sstar1 6s linear infinite;
+  }
+  @keyframes sstar1 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar2{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 93px;
+  top:2032px;
+  animation: sstar2 6s linear infinite;
+  }
+  @keyframes sstar2 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .sstar3{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 1043px;
+  top:2050px;
+  animation: sstar3 6s linear infinite;
+  }
+  @keyframes sstar3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .star4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 105px;
+  top: 2994px;
+  animation: star4 6s linear infinite;
+  }
+  @keyframes star4 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .moon3{
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  left: 381px;
+  top: 2964px;
+  animation: moon3 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes moon3 {
+  0% {transform: rotate(30deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .sstar4{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 681px;
+  top: 2994px;
+  animation: sstar4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes sstar4 {
+  0% {scale:0.5;}
+  100% {scale:1;}
+  }
+  .daisy3{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 950px;
+  top: 2940px;
+  animation: daisy3 6s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes daisy3 {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .heart4{
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  left: 1225px;
+  top: 2980px;
+  animation: heart4 1s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes heart4 {
+  0% {transform: rotate(65deg);}
+  100% {transform: rotate(-15deg);}
+  }
+  .container4 {
+  margin-left: 41px;
+  width: 1345px;
+  height:705px;
+  position: relative;
+  background:#FFFFFF;
+  border-radius: 5%;
+  }
+  .line {
+  top:2772px;
+  margin-left: 41px;
+  width: 1345px;
+  height:7px;
+  position: absolute;
+  }
+  .stick3 {
+  top: 2270px;
+  left: 717px;
+  width: 704px;
+  height: 223px;
+  position: absolute;
+  animation: stick3 2s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes stick3 {
+  0% {transform: rotate(5deg);}
+  100% {transform: rotate(-5deg);}
+  }
+  .botle1 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  animation: botle1 4s linear infinite;
+  }
+  .botle11 {
+  top: 2572px;
+  left: 1150px;
+  width: 145px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle1 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle2 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  animation: botle2 4s linear infinite;
+  }
+  .botle22 {
+  top: 2572px;
+  left: 948px;
+  width: 125px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle2 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle3 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  animation: botle3 4s linear infinite;
+  animation-delay: 1s;
+  }
+  .botle33 {
+  top: 2572px;
+  left: 706px;
+  width: 178px;
+  height: 200px;
+  position: absolute;
+  }
+  @keyframes botle3 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
+  }
+  .botle4 {
+  top: 2572px;
+  left: 520px;
+  width: 110px;
+  height: 200px;
+  position: absolute;
+  z-index: 1;
+  animation: botle4 4s linear  infinite;
+  }
+  .stars {
+  top: 2680px;
+  left: 520px;
+  width: 109px;
+  height: 94px;
+  z-index: 0;
+  position: absolute;
+  animation: stars 4s linear  infinite;
+  }
+  @keyframes botle4 {
+  0% {transform: translateY(0);}
+  50% { transform:translateY(-350px) translateX(10px);;}
+  90% {transform: rotate(-59deg)translateY(-150px)translateX(320px);}
+  }
+  @keyframes stars {
+  0% {transform: translateY(0);
+  }
+  50% { transform:translateY(-370px) translateX(5px);
+  }
+  90% {transform: rotate(-59deg)translateY(-450px)translateX(260px);
+  }
+  }
+  .botle5 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  animation: botle5 4s linear  infinite;
+  animation-delay: 1s;
+  }
+  .botle51 {
+  top: 2349px;
+  left: 135px;
+  width: 323px;
+  height: 426px;
+  position: absolute;
+  }
+  @keyframes botle5 {
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  90% {opacity: 0;}
+  92% {opacity: 1;}
+  }
+  .container5 {
+  width: 1440px;
+  height:1300px;
+  position: relative;
+  background:#FFFFFF;
+  overflow: hidden;
+  }
+  .stick4{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  .stick4:hover{
+  animation: stick4 4s linear  infinite;
+  }
+  .stick31{
+  position: absolute;
+  width: 564px;
+  height: 178px;
+  left: 35px;
+  top: 3135px;
+  transform: rotate(-8deg);
+  }
+  @keyframes stick4 {
+  0% {opacity: 1;}
+  50% {opacity: 0;}
+  100% {opacity: 0;}
+
+  }
+  .conveer{
+  width: 4133px;
+  height: 509px;
+  display: block;
+  position: absolute;
+  animation: conveer 10s linear infinite;
+  animation-direction:reverse;
+  margin-top: 400px;
+  animation-delay: 0.2s;
+  }
+  .line1 {
+  top:4045px;
+  width: 1440px;
+  height:7px;
+  position: absolute;
+  }
+  @keyframes conveer {
+  0% {right: -3800px;}
+  100% {right: calc(100% - 1100px);}
+  }
+  .etiketka1{
+  position: absolute;
+  width: 226px;
+  height: 169px;
+  left: 583px;
+  top: 3700px;
+  animation: etiketka1 1s linear infinite;
+  animation-direction: alternate;
+  animation-delay: 0.3s;
+  }
+  @keyframes etiketka1 {
+  0% {scale:1;}
+  50% {scale:2;}
+  100% {scale:2;}
+  }
+  .etiketka2{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1020px;
+  top: 3200px;
+  animation: etiketka2 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka2 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka3{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 1005px;
+  top: 4120px;
+  animation: etiketka3 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka3 {
+  0% {opacity: 0;transform: rotate(30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(-30deg);}
+  }
+  .etiketka4{
+  position: absolute;
+  width: 343px;
+  height: 256px;
+  left: 80px;
+  top: 4120px;
+  animation: etiketka4 3s linear infinite;
+  animation-direction: alternate;
+  }
+  @keyframes etiketka4 {
+  0% {opacity: 0;transform: rotate(-30deg);}
+  50% {opacity: 1;}
+  100% {opacity: 1;transform: rotate(30deg);}
+  }
+  .logo{
+  position: absolute;
+  width: 343px;
+  height: 124px;
+  left: 46px;
+  top: 4548px;
+  }
+  .name{
+  position: absolute;
+  width: 340px;
+  height: 230px;
+  left: 1061px;
+  top: 4522px;
+  }
+
+}
